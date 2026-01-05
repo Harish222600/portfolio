@@ -25,7 +25,7 @@ const About = () => {
                     className="about-image"
                 >
                     <div className="img-box">
-                        <FaUser />
+                        <img src="/myself.jpg" alt="Harish S" />
                     </div>
                 </motion.div>
 
